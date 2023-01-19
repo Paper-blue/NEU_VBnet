@@ -1,0 +1,11 @@
+\\Mac\Home\Desktop\vb.net\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+\\Mac\Home\Desktop\vb.net\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+\\Mac\Home\Desktop\vb.net\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+\\Mac\Home\Desktop\vb.net\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+\\Mac\Home\Desktop\vb.net\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+\\Mac\Home\Desktop\vb.net\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+\\Mac\Home\Desktop\vb.net\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+\\Mac\Home\Desktop\vb.net\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\vb.net\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+\\Mac\Home\Desktop\vb.net\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+\\Mac\Home\Desktop\vb.net\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
